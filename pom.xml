@@ -94,7 +94,7 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>maven central Repository</name>
+	      <name>maven-central Repository</name>
 	      <url>http://35.84.182.6:4000/repository/maven-central/</url>
 	    </repository>
 	    
